@@ -22,7 +22,7 @@ void loop() {
      if (value == LOW) {
          pulveriza();
          Serial.println("pulveriza");
-         delay(2000);
+         delay(1000);
     }
 
  }
